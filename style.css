@@ -163,6 +163,9 @@ header {
 		width: 50% !important;
 		margin-bottom: 27px;
 	}
+	.single-counter-div {
+		margin-top: -57px !important;
+	}
 }
 @media (max-width: 768px) {
 	.portfolio-iamge-div:after {
@@ -483,7 +486,7 @@ header {
 	margin-right: 18px;
 	border: 1px solid #ebebeb;
 	margin-bottom: 126px;
-	margin-top: 81px;
+
 	box-shadow: 2px 1px 7px #dbdada;
 	padding: 16px;
 }
@@ -495,6 +498,7 @@ header {
 	font-size: 36px;
 	font-weight: 500;
 }
+
 .p {
 	font-family: "Nunito", sans-serif;
 }
