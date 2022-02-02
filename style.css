@@ -166,6 +166,11 @@ header {
 	.single-counter-div {
 		margin-top: -57px !important;
 	}
+	.ftrs-single-div {
+		width: 90% !important;
+		margin: 0 auto !important;
+		margin-top: 23px !important;
+	}
 }
 @media (max-width: 768px) {
 	.portfolio-iamge-div:after {
@@ -217,6 +222,13 @@ header {
 	}
 	.subs-container p {
 		padding: 0 8px;
+	}
+	.navLink {
+		font-size: 11px !important;
+	}
+	.swiper-slide {
+		width: 92% !important;
+		margin: 0;
 	}
 }
 
@@ -302,9 +314,7 @@ header {
 		flex-direction: column;
 		margin-top: 25px;
 	}
-	.ftrs-single-div {
-		width: 100% !important;
-	}
+
 	.tabs-cnt {
 		flex-direction: column;
 		width: 100% !important;
@@ -336,6 +346,9 @@ header {
 	}
 	.card {
 		margin-bottom: 40px !important;
+		width: 96% !important;
+		margin: 0 auto !important;
+		margin-bottom: 55px !important;
 	}
 
 	.FAQ-Accordion {
@@ -473,7 +486,7 @@ header {
 	top: 0;
 	left: 0;
 	right: 0;
-	z-index: 997;
+	z-index: 1000;
 }
 
 .scrolling-effect {
@@ -1257,8 +1270,8 @@ img.bank-img {
 }
 
 .swiper2nd img {
-	width: 138px;
-	margin-top: -21px;
+	width: 110px;
+	margin: 0px 146px;
 }
 /* end */
 /* blog */
