@@ -230,6 +230,17 @@ header {
 		width: 92% !important;
 		margin: 0;
 	}
+	.phone-num {
+		width: 118%;
+	}
+	.submenu2 {
+		bottom: -92px;
+		left: 135px;
+	}
+	.submenu1 {
+		top: -223px;
+		margin-left: 0px !important;
+	}
 }
 
 @media (max-width: 1200px) {

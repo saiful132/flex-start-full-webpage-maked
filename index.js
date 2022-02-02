@@ -63,6 +63,3 @@ var swiper = new Swiper(".mySwiper1", {
 		clickable: true,
 	},
 });
-
-// purecounter
-new PureCounter();
