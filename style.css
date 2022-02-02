@@ -241,6 +241,9 @@ header {
 		top: -223px;
 		margin-left: 0px !important;
 	}
+	.swiper2nd img {
+		margin: 0px 110px !important;
+	}
 }
 
 @media (max-width: 1200px) {
